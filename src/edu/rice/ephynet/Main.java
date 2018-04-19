@@ -8,8 +8,8 @@ public class Main {
         } catch (Exception e) {
         } */
 
-        int nLeaves = 10;
-        int nReticulations = 0;
+        int nLeaves = 3;
+        int nReticulations = 1;
 
         if (args.length == 2) {
             nLeaves = Integer.parseInt(args[0]);
